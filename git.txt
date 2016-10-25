@@ -2,5 +2,10 @@ Git is really useful
 or is it.
 
 Writing explicit commit messges is important.
+
 playing around with the code yohoo
-hello.
+
+
+
+making a change in this file
+
